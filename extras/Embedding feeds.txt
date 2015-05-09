@@ -1,0 +1,24 @@
+Embedding Facebook Feed
+
+
+
+Embedding Twitter Feed
+
+https://dev.twitter.com/discussions/22912
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&ved=0CFEQtwIwAw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6Oq5AYKFuTI&ei=F1qNUtC0FunSiwK2kIGoCw&usg=AFQjCNHvAJV5M_pgRTA6IO8ivXiz9kjhTA&sig2=csgGvPXwrDzj-qcBbzbo4Q&bvm=bv.56987063,d.cGE
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&ved=0CEQQFjAC&url=https%3A%2F%2Fdev.twitter.com%2Fdiscussions%2F8477&ei=F1qNUtC0FunSiwK2kIGoCw&usg=AFQjCNGH3EjN277MDBqryWFmLi7gvBnikQ&sig2=27q2XNxUVQIX-tPkjNqCPw&bvm=bv.56987063,d.cGE
+
+Embedding Youtube Feed
+
+http://www.youtube.com/yt/dev/
+http://www.youtube.com/youtubeonyoursite
+http://www.google.com/support/forum/p/youtube/thread?tid=4c414f514bc3f690&hl=en
+
+Embedding Pinterest Feed
+
+http://business.pinterest.com/widget-builder/#do_embed_user
+
+Embedding Instagram Feed
+
+http://nitrogr.am/blog/embed-instagram/
+http://snapwidget.com/#getstarted

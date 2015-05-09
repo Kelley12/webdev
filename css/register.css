@@ -1,0 +1,66 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url(/images/bg_tile.jpg);
+  
+  background-color: #ffffff;
+}
+#logo{
+	padding: 0 0 20px 80px;
+}
+
+#footer {
+	margin-top: 60px;
+}
+
+#footer #register-link {
+	display: none;
+}
+
+.form-register {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-register .form-register-heading,
+.form-register .checkbox {
+  margin-bottom: 10px;
+}
+.form-register .checkbox {
+  font-weight: normal;
+}
+.form-register .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-register .form-control:focus {
+  z-index: 2;
+}
+.form-register #middle {
+  margin: -1px 0 -1px 0;
+  border-radius: 0;/*
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;*/
+}
+.form-register #first{
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-register #reenter {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+span { color: red; }
+#uerror{ display: none; }
+#ferror{ display: none; }
+#lerror{ display: none; }
+#eerror{ display: none; }
+#perror{ display: none; }

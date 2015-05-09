@@ -1,0 +1,49 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url(/images/bg_tile.jpg);
+  background-color: #ffffff;
+}
+
+.container{
+	margin-bottom: 60px;
+}
+
+#logo{
+	padding: 0 0 20px 80px;
+}
+.form-contact {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-contact .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-contact .form-control:focus {
+  z-index: 2;
+}
+.form-contact #middle {
+  margin: -1px 0 -1px 0;
+  border-radius: 0;
+}
+.form-contact #first{
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-contact #last {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+span { color: red; }
+#uerror{ display: none; }
+#eerror{ display: none; }

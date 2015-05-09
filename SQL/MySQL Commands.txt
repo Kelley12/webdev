@@ -1,0 +1,16 @@
+Connect to the database:
+	mysql [-u username] [-h hostname] database-name
+
+To list all databases, in the MySQL prompt type:
+	show databases
+
+Then choose the right database:
+	use <database-name>
+
+List all tables in the database:
+	show tables
+
+Describe a table:
+	desc <table-name>
+	
+visit http://www.bios.niu.edu/johns/bioinform/mysql_commands.htm for more basic commands

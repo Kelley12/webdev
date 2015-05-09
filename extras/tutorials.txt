@@ -1,0 +1,12 @@
+
+Facebook Login
+https://developers.facebook.com/docs/facebook-login/login-flow-for-web/
+OR
+https://developers.facebook.com/docs/facebook-login/login-flow-for-web-no-jssdk/
+
+Facebook Plugins
+https://developers.facebook.com/docs/plugins/
+
+Facebook for Websites
+https://developers.facebook.com/docs/web/
+

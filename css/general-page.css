@@ -1,0 +1,26 @@
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url(/images/bg_tile.jpg);
+  background-color: #ffffff;
+  width: 96%;
+}
+
+.container {
+	width: 50%;
+	margin: 20px auto;
+	text-align: center;
+	background-color: white;
+	border-radius: 15;
+	-moz-box-shadow:    3px 3px 4px 5px #787878;
+	-webkit-box-shadow: 3px 3px 4px 5px #787878;
+	box-shadow:         3px 3px 4px 5px #787878;
+	min-height: 200px;
+}
+
+.content {
+	text-align: center;
+	margin: 0 auto;
+	padding: 15px 25px;
+}

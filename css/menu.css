@@ -1,0 +1,73 @@
+/* Fonts at the bottom */
+#sideMenu{
+	float: left;
+	width: 150px;
+	height: 90px;
+	/*height: 99.02%;*/
+	margin: -8px 0 -30px -8px;
+	text-align: center;
+	color: white;
+	Background-color: #2E2E2E;
+	position: absolute;
+	z-index: 2;
+	padding-bottom: 7px;
+	/*overflow: auto;*/
+}
+
+#logo{
+	width: 125px;
+	height: 75px;
+	margin: 8px 0 10px 0;
+}
+
+h2{
+	margin: 30px 0 30px 0;
+}
+
+#socialLinks{
+	font-family: 'Open Sans',sans-serif;
+	font-style: normal;
+	margin: 0 0 0 -40px;
+}
+
+#socialLinks ul{
+	list-style: none;
+}
+
+#socialLinks li{
+	font-size: 20px;
+	margin: 0 0 20px;
+}
+
+#facebooktext{
+	font-family: @font-face;
+	font-size: 26px;
+	font-weight:bold;
+	color: #3b5998;
+}
+
+#instagramtext{
+	margin: 0 0 -10px 0;
+}
+
+#youtubetext{
+	margin: 0 0 -4px 0;
+}
+
+#googletext{
+	
+}
+/*
+#copyright{
+	font-size: 12px;
+	width: 100%;
+	bottom: 0;
+	position: absolute;
+	height: 7px;
+}
+*/
+@font-face{
+	font-family: Facebook Letter Faces;
+	src: url(‘http://www.mediafont.com/storage/contents/11/font.eot’); /* IE */
+	src: local(‘Facebook Letter Faces’), url(‘http://www.mediafont.com/storage/contents/11/FACEBOLF.OTF’); /* non-IE */
+}

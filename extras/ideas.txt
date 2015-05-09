@@ -1,0 +1,27 @@
+Store sessions in database
+http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/
+
+Facebook Chat
+https://developers.facebook.com/docs/chat/
+
+Chat room
+http://css-tricks.com/chat2/
+http://css-tricks.com/lodge/chat/
+
+Side Menu
+http://cssmenumaker.com/menu/vertical-massive-blue
+
+Contact Form
+http://css-tricks.com/examples/ContactForm/
+
+Website change request form
+http://css-tricks.com/examples/WebsiteChangeRequestForm/
+
+Fade out bottom
+http://css-tricks.com/examples/FadeOutBottom/
+
+Resume Page
+http://css-tricks.com/examples/OnePageResume/
+
+Editable Invoice
+http://css-tricks.com/examples/EditableInvoice/
