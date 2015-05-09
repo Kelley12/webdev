@@ -1,4 +1,8 @@
-webdev
+CS 497 Web Development
 ======
 
-Webdev on Heroku
+Final project for Web Development class.
+
+Written in PHP.
+
+Deployed on Heroku.
